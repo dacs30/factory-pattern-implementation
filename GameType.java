@@ -1,0 +1,3 @@
+public enum GameType {
+    CHESS, GO, ESCAPE_PLUS, MULTI_DIMENSIONAL_CHESS
+}
